@@ -13,7 +13,7 @@ public static final double TAX_RATE = 0.06;
  * Calculates the final price of a purchased item using values entered by the
  * user.
  */
-void main(String[] args) {
+void main() {
 
     int quantity;
     double subtotal;
