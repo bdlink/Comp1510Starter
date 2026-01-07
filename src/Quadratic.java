@@ -14,7 +14,7 @@ import static java.lang.Math.pow;
 /**
  * Determines the roots of a quadratic equation.
  */
-void main(String[] args) {
+void main() {
     // ax^2 + bx + c
     int a;
     int b;

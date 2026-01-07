@@ -6,7 +6,7 @@
  * @author Bruce Link
  * @version 2025
  */
-void main(String[] args) {
+void main() {
     // declaration with initialization
     var sides = 7;
     IO.println("A heptagon has " + sides + " sides.");
